@@ -23,8 +23,9 @@ const Description = styled.div`
 
 const File = styled.a`
 	font-size: ${props => props.theme.fonts.medium};
-	color: ${props => props.theme.colors.corp}
+	color: ${props => props.theme.colors.corp};
 `
+
 
 const Resources = ({ params }) => {
 	const [data, setData] = useState([]);
