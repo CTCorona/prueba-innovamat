@@ -26,7 +26,7 @@ const theme = {
 		white: '#FFFFFF',
 	},
 	breakpoints: {
-		maxSm: '479px'
+		maxSm: '559px'
 	},
 	z: {
 		l0: 0,
