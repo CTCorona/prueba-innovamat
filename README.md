@@ -1,6 +1,6 @@
 # README
 
-## Instalación
+## Acceso
 Podéis acceder desde el siguiente enlace: [prueba-innovamat](https://prueba-innovamat.surge.sh/) o bien ejecutarlo localmente clonando el repositorio y ejecutando los siguientes comandos:
 
 - `yarn`
