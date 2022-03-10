@@ -25,12 +25,6 @@ const theme = {
 		black: '#000000',
 		white: '#FFFFFF',
 	},
-	sizes: {
-		s: '480px',
-		md: '768px',
-		lg: '976px',
-		xl: '1440px'
-	},
 	breakpoints: {
 		maxSm: '479px'
 	},

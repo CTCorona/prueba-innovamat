@@ -39,7 +39,6 @@ const Label = styled.div`
 const ChipsContainer = styled.div`
 	display: flex;
 	flex-flow: row wrap;
-	/* justify-content: space-between; */
 	display: none;
 
 	${Container}.show & {

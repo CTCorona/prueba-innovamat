@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import styled, { useTheme } from 'styled-components'
+import React from 'react'
+import styled from 'styled-components'
 import { useRoute } from 'wouter'
 import { Link } from 'wouter'
 import Icon from '../Common/Icon'
